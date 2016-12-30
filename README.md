@@ -1,5 +1,4 @@
-# frisbeesportsverige.github.io
+# Butik
 
-Hemsida för Github-organisationen FrisbeesportSverige.
 
-Används för tillfället endast för att testa Paypal betalningar.
+Test av Paypal betalningar.
